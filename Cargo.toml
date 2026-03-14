@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "crates/virp-core",
+    "crates/virp-cli",
+]
+resolver = "2"
+
